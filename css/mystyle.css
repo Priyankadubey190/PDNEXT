@@ -1,0 +1,50 @@
+.top_bar{
+    background-color:#f26522;
+}
+.social_icons{margin-right: 5px;color: #fff;font-size: 20px;}
+
+.contact_info{color:#fff;font-size: 16px;}
+
+.my_menu{margin-top: 27px;}
+
+.my_menu .navbar-default{background: none;border: none;}
+
+.my_menu .navbar-nav .active a,.my_menu .navbar-nav .active a:hover{background: #f26522; color: #fff;}
+
+.my_menu .navbar-nav li a:hover{background: #ff8000; color: #fff;}
+.content{background: radial-gradient(circle,blueviolet,chocolate);padding: 25px 0;height: 300px;}
+.content2{background: radial-gradient(circle,coral, cyan);padding: 25px 0;  height: 300px;
+}
+
+@media (max-width:1200px){
+    .my_menu .pull-right{float: none !important;}
+}
+.gallary{
+    height: 200px;
+    width: 300px;
+    padding: 10px;
+    transition: all 1s;
+    border: 10px solid #f26522;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.gallary:hover{
+    transform: scale(1.1);
+    background-color: cyan;
+}
+.gdbtn{
+    cursor: pointer;
+    display:inline-block;
+    color: #fff;
+    font-size: 2px;
+    border-radius: 4px;
+    border: 1px solid #bbb;
+    transition: all 0.3s linear;
+}
+.green{
+    grid-column: span 2;
+    grid-row: 1/3;
+}
+
+
+    
