@@ -1,12 +1,21 @@
 {
+<<<<<<< HEAD
   "name": "mynewapp",
+=======
+  "name": "person-list",
+>>>>>>> 97eadd357783f919b1c7b8fa46cde1ef1d263b3c
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
+<<<<<<< HEAD
     "@testing-library/react": "^9.4.1",
     "@testing-library/user-event": "^7.2.1",
     "node-sass": "^4.13.1",
+=======
+    "@testing-library/react": "^9.5.0",
+    "@testing-library/user-event": "^7.2.1",
+>>>>>>> 97eadd357783f919b1c7b8fa46cde1ef1d263b3c
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
     "react-scripts": "3.4.0"
