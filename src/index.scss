@@ -11,7 +11,7 @@ $mainGrey:#ececec;
 $mainTransition: 0.3s linear;
 body {
   font-family: "open sans", sans-serif;
-  background: #ececec;
+  background: $mainGreen;
   color: $mainGreen;
 }
 
